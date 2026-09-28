@@ -1,3 +1,0 @@
-/Users/arseniy/Documents/binance-orderbook/build/CMakeFiles/binance_orderbook.dir
-/Users/arseniy/Documents/binance-orderbook/build/CMakeFiles/edit_cache.dir
-/Users/arseniy/Documents/binance-orderbook/build/CMakeFiles/rebuild_cache.dir
