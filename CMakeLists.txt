@@ -4,7 +4,6 @@ project(binance_orderbook CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# ВОТ ЭТА СТРОКА ГЕНЕРИРУЕТ compile_commands.json ДЛЯ VS CODE:
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 list(APPEND CMAKE_PREFIX_PATH "/opt/homebrew" "/usr/local")
