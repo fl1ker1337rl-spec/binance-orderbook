@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/arseniy/Documents/binance-orderbook/build",
+  "command": "/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_CHRONO_DYN_LINK -DBOOST_CHRONO_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Users/arseniy/Documents/binance-orderbook/include -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/binance_orderbook.dir/src/main.cpp.o -c /Users/arseniy/Documents/binance-orderbook/src/main.cpp",
+  "file": "/Users/arseniy/Documents/binance-orderbook/src/main.cpp",
+  "output": "CMakeFiles/binance_orderbook.dir/src/main.cpp.o"
+}
+]
