@@ -1,0 +1,3 @@
+[submodule "logger"]
+	path = logger
+	url = https://github.com/fl1ker1337rl-spec/simple-logger.git
